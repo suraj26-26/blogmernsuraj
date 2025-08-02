@@ -6,6 +6,9 @@ server/node_modules
 /.pnp
 .pnp.js
 
+# Root .env
+.env
+
 # client env file
 client/.env
 client/.env.*
