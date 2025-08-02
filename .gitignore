@@ -6,8 +6,11 @@ server/node_modules
 /.pnp
 .pnp.js
 
-# dotenv
+# client env file
 client/.env
+client/.env.*
+# server env file
+server/.env
 server/.env
 
 # testing
